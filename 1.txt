@@ -1,0 +1,1 @@
+jadi di tampilan data pasien itu memuat nomer ruangan, nama pasien, alamat pasien, no ktp or nik, tombol for input new data pasien, table, and last tombol print 
