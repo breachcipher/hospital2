@@ -5,12 +5,7 @@ import javax.swing.table.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
-import koneksi.koneksi;
-import javax.swing.table.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.sql.*;
-import koneksi.koneksi;
+import javax.swing.border.TitledBorder;  // ← Tambahkan ini!
 public class form_perawat extends JPanel {
     private Connection conn;
     private JTextField txtCariNama, txtKdPerawat, txtNama, txtNoTelp, txtAlamat;
